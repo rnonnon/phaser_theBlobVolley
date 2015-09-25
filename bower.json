@@ -1,0 +1,19 @@
+{
+  "name": "phaser_typescript_hello",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xoakx/phaser_typescript_hello",
+  "authors": [
+    "Rémi <remi.nonnon@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.3"
+  }
+}
