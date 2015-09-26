@@ -14,6 +14,7 @@ module TheBlob {
             //  Load our actual games assets
             this.load.image('background', 'assets/background.png');
             this.load.atlasJSONHash('blob','assets/blob.png','assets/blob.json');
+            this.load.image('ball','assets/ball.png');
         }
 
         create() {
