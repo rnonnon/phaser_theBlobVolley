@@ -18,7 +18,7 @@ module TheBlob {
             else {
                 //  Same goes for mobile settings.
             }
-            this.game.physics.startSystem(Phaser.Physics.ARCADE);
+            this.game.physics.startSystem(Phaser.Physics.P2JS);
             this.game.state.start('Preloader', true);
  
         }
